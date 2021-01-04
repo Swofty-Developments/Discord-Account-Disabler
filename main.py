@@ -4,9 +4,7 @@ import os
 import sys
 import time
 
-token = input("Enter Token: ")
-
-print("Starting termination process.")
+token = input("Token: ")
 
 while True:
     api = requests.get("https://discordapp.com/api/v6/invite/hwcVZQw")
