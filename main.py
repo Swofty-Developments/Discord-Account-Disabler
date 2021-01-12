@@ -18,4 +18,3 @@ while True:
         print("Successfully disabled")
         break
 
-Nzg2MTg2MTQyNDAzNTI2Njc2.X9Cu5g.Yc_MKlGqpJFP-_dHg3_CYH0JZrM
